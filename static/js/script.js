@@ -210,11 +210,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         step();
     })();
-    
-    
-    
-    pop('./static/img/tz.jpg')
-    
+
     
     
 });
